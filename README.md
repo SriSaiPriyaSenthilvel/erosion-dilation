@@ -27,7 +27,7 @@ Dilate the image
 ## Program:
 
 ```
-Developed by: Sri Sai Priya. S
+Developed by: SRI SAI PRIYA.S
 Register number: 212222240103
 ```
 # Erode the image
